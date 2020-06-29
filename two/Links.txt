@@ -1,0 +1,18 @@
+https://datamonkeysite.com/2020/04/07/analyzing-openstreet-map-data-using-bigquery-and-powerbi/
+
+https://flow.microsoft.com/en-us/connectors/
+
+https://powerapps.microsoft.com/en-us/common-data-service/
+
+covid 19
+https://powerbi.microsoft.com/en-us/blog/how-public-agencies-keep-communities-informed-on-covid-19-with-power-bi/
+
+https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery?filter=covid-19
+
+https://community.powerbi.com/t5/COVID-19-Data-Stories-Gallery/COVID-19-Dashboard-From-Data-to-Insights/td-p/995011
+
+https://community.powerbi.com/t5/COVID-19-Data-Stories-Gallery/bd-p/pbi_covid19_datastories
+
+
+
+Power BI Premium as a superset of Analysis Services: the XMLA endpoint
